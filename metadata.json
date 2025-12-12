@@ -1,0 +1,5 @@
+{
+  "name": "HierarchyViz",
+  "description": "A dynamic CSV-based organization chart visualizer. Upload employee data and explore the hierarchy with search capabilities.",
+  "requestFramePermissions": []
+}
